@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni00kellgoog_0015.png"; bbox 0 0 698 1063; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 468 613 510">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 468 613 510">
+     <span class='ocr_line' id='line_1_1' title="bbox 131 468 613 486; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 131 469 180 482; x_wconf 72' lang='lat' dir='ltr'><em>Omnis</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 186 468 207 482; x_wconf 62' lang='lat' dir='ltr'><em>luz</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 213 473 257 482; x_wconf 74' lang='lat' dir='ltr'><em>mma</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 267 470 313 482; x_wconf 72' lang='lat' dir='ltr'><em>mm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 320 473 347 482; x_wconf 67' lang='lat' dir='ltr'><em>nan</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 356 469 400 482; x_wconf 72' lang='lat' dir='ltr'><em>solum</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 409 470 527 483; x_wconf 54' lang='lat' dir='ltr'><em>:numentanam</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 536 471 613 486; x_wconf 72' lang='lat' dir='ltr'><em>meorum,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 112 492 518 510; baseline 0 -5"><span class='ocrx_word' id='word_1_9' title='bbox 112 496 161 505; x_wconf 67' lang='lat' dir='ltr'><em>verum</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 168 493 209 505; x_wconf 69' lang='lat' dir='ltr'><em>etiam</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 215 493 289 509; x_wconf 77' lang='lat' dir='ltr'><em>praecepta</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 295 492 364 510; x_wconf 68' lang='lat' dir='ltr'><em>quaedam</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 370 492 448 506; x_wconf 61' lang='lat' dir='ltr'><em>desiderat.-</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 458 497 480 510; x_wconf 75' lang='lat'><em>93.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 489 496 518 510; x_wconf 65' lang='lat'><em>3¹9</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
